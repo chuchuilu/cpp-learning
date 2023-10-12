@@ -6,5 +6,7 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(cpp_learning
         day_10.9_variable_constant.cpp
         welcome.cpp
-        2_变量和数据类型/1_varable.cpp
+        day_10.10_data_type.cpp
+        mul.h
+        mul.cpp
 )
