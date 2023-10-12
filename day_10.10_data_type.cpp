@@ -120,19 +120,19 @@ int main()
 
 }
 */
-#include <iostream>
-#include "mul.h"
-#include <iomanip>
-using namespace std;
-
-int main()
-{
-    unsigned char a = 255;
-    unsigned char b = 1.3;
-    int c = a + b;
-    cout << c << endl;
-    cout << c << endl;
-    return 1;
-
-
-}
+//#include <iostream>
+//#include "mul.h"
+//#include <iomanip>
+//using namespace std;
+//
+//int main()
+//{
+//    unsigned char a = 255;
+//    unsigned char b = 1.3;
+//    int c = a + b;
+//    cout << c << endl;
+//    cout << c << endl;
+//    return 1;
+//
+//
+//}
