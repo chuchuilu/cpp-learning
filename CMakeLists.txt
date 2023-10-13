@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.26)
 project(cpp_learning)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 20)
 
 add_executable(cpp_learning
         day_10.9_variable_constant.cpp
@@ -10,4 +10,6 @@ add_executable(cpp_learning
         mul.h
         mul.cpp
         day10.12_if_while_for.cpp
+        day10.10_array.cpp
+        day10.12_struct_union.cpp
 )

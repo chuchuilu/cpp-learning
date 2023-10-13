@@ -31,7 +31,7 @@ int main()
     cout << "值为" << h << endl;
     cout << "无符号字符的长度为" << sizeof h << endl;  // longlong 8字节      sizeof是一个操作符
     cin.get();
-    // 整型 size_t 16或32位,一般用来表达内存和元素的个数
+    // 整型 size_t 16或32位,一般用来表达内存和元素的个数,自适应
 
 
     // char类型

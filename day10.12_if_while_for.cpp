@@ -134,21 +134,21 @@ int main()
 
 
 // switch
-int main()
-{
-    char chart;
-    cin >> chart;
-    switch (chart)
-    {
-        case 'a':
-        case 'A':
-            cout << "输入的值为a" << endl;
-            break;
-        case 'b':
-            cout << "输入的值为b" << endl;
-            break;
-        default:
-            cout << "输入的啥也不是" << endl;
-            break;
-    }
-}
+//int main()
+//{
+//    char chart;
+//    cin >> chart;
+//    switch (chart)
+//    {
+//        case 'a':
+//        case 'A':
+//            cout << "输入的值为a" << endl;
+//            break;
+//        case 'b':
+//            cout << "输入的值为b" << endl;
+//            break;
+//        default:
+//            cout << "输入的啥也不是" << endl;
+//            break;
+//    }
+//}
