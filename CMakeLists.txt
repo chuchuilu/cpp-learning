@@ -12,4 +12,5 @@ add_executable(cpp_learning
         day10.12_if_while_for.cpp
         day10.10_array.cpp
         day10.12_struct_union.cpp
+        day10.13_pointers.cpp
 )
