@@ -76,19 +76,19 @@ int main()
     int *p = numbers + 1;
     p++;
     *p = 999;
-    *(p - 1) = 888;
-    cout << numbers[1] << endl;
- */
-struct  Sutdent {
-    char name[4];
-    int born;
-    bool male;
-};
-int main()
-{
-
-    int *p = new int(5) ;
-    cout << p << endl;
-    cout << *p << endl;
-
-}
+//    *(p - 1) = 888;
+//    cout << numbers[1] << endl;
+// */
+//struct  Sutdent {
+//    char name[4];
+//    int born;
+//    bool male;
+//};
+//int main()
+//{
+//
+//    int *p = new int(5) ;
+//    cout << p << endl;
+//    cout << *p << endl;
+//
+//}
