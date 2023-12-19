@@ -16,4 +16,8 @@ add_executable(cpp_learning
 #        cpp_basic/day10.16_function.cpp
 #        数据结构与算法/线性表/线性表.cpp
         数据结构与算法/线性表/单链表.cpp
+        数据结构与算法/栈和队列/顺序栈.cpp
+        数据结构与算法/栈和队列/链栈.cpp
+        数据结构与算法/栈和队列/顺序队列.cpp
+        数据结构与算法/栈和队列/链队列.cpp
 )
